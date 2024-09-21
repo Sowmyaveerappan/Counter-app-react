@@ -1,0 +1,25 @@
+.container{
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+    background-color: rgb(230, 135, 217);
+    text-align: center;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    border: solid pink 1px;
+    background-color: pink;
+    padding: 5px;
+    position: relative;
+    left:20px;
+    top: 20px;
+}
+.inc{
+    padding: 5px;
+    background-color: rgb(161, 161, 211);
+}
+.dec{
+    padding: 5px;
+    background-color: rgb(208, 149, 149);
+}
